@@ -60,6 +60,14 @@ header{
   line-height: 2;
 }
 
+.trailer{
+  margin: 2em 0;
+}
+
+.trailer-caption{
+  text-align: center;
+}
+
 .footer-logo{
   display: block;
   max-width: 60px;
