@@ -9,10 +9,6 @@ img{
   max-width: 100%;
 }
 
-header{
-  
-}
-
 .logo{
   display: block;
   margin: auto;
@@ -61,7 +57,7 @@ header{
 }
 
 .trailer{
-  margin: 2em 0;
+  margin: 2rem 0;
 }
 
 .trailer-caption{
@@ -74,7 +70,19 @@ header{
 
 .poster-container{
   text-align: center;
-  margin: 1em 0;
+  margin: 2rem 0;
+}
+
+.cast-container{
+  margin: 2rem 0;
+}
+
+.cast-caption{
+  letter-spacing: 0.2rem;
+}
+
+.footer{
+  margin-top: 3rem;
 }
 
 .footer-logo{
