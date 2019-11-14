@@ -61,11 +61,10 @@ header{
 }
 
 .trailer{
-  margin-top: 2em;
+  margin: 2em 0;
 }
 
 .trailer-caption{
-  margin-top: 2em;
   text-align: center;
 }
 
