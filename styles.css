@@ -68,6 +68,15 @@ header{
   text-align: center;
 }
 
+.poster-title{
+  text-align: center;
+}
+
+.poster-container{
+  text-align: center;
+  margin: 1em 0;
+}
+
 .footer-logo{
   display: block;
   max-width: 60px;
